@@ -1,4 +1,4 @@
-![group logo](group_logo.png)
+![group logo](profile/group_logo.png)
 
 <!--
 
